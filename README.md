@@ -464,9 +464,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## Support
 
-- Documentation: https://docs.licence-sku.dev
-- Issues: https://github.com/yourusername/licence-sku-microservice/issues
-- Email: support@licence-sku.dev
+- Documentation: Comming Soon
+- Issues: https://github.com/imtushaarr/licence-sku-microservice/issues
+- Email: tusharguptagps@gmail.com
 
 ## Roadmap
 
